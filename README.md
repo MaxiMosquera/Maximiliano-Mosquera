@@ -1,10 +1,12 @@
-👋 Hola! Soy Maximiliano Oscar Mosquera, un desarrollador Full Stack con especialización en Backend y una fuerte pasión por la tecnología y los desafíos de programación. Desde Mercedes, Buenos Aires, Argentina, estoy impulsando mi carrera con proyectos que destacan mi capacidad para resolver problemas y construir aplicaciones escalables.
+👋 Hi! I'm Maximiliano Oscar Mosquera, a **Full Stack Developer** specializing in **Backend** with a strong passion for technology and programming challenges. From **Mercedes, Buenos Aires, Argentina**, I am driving my career forward with projects that showcase my ability to solve problems and build scalable applications.  
 
-Me caracterizo por ser una persona autogestionada y colaborativa, siempre en busca de nuevas oportunidades para aplicar mis conocimientos y seguir creciendo en el sector IT. Estoy orientado a aprender continuamente y aportar valor en proyectos con impacto real.
+I am a **self-driven and collaborative** person, always looking for new opportunities to apply my knowledge and continue growing in the IT industry. I am committed to continuous learning and contributing to projects with real impact.  
 
-🚀 Tecnologías principales:
+🚀 **Main Technologies:**  
 
-Lenguajes y frameworks: JavaScript, TypeScript, React, Node.js, NestJS, Express
-Bases de datos: MongoDB (Mongoose), PostgreSQL (TypeORM)
-Metodologías: Enfoque en patrones de diseño, microservicios, y metodologías ágiles
-📩 ¡Estoy abierto a colaboraciones y oportunidades! Si tienes algún proyecto o propuesta interesante, no dudes en escribirme a: maximiliano.mosquera1@gmail.com
+- **Languages & Frameworks:** JavaScript, TypeScript, React, Node.js, NestJS, Express  
+- **Databases:** MongoDB (Mongoose), PostgreSQL (TypeORM)  
+- **Methodologies:** Focus on design patterns, microservices, and agile methodologies  
+
+📩 **I’m open to collaborations and new opportunities!** If you have an interesting project or proposal, feel free to contact me at: **maximiliano.mosquera1@gmail.com**
+
